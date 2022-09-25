@@ -15,13 +15,13 @@ const Header = () => {
       </ul>
       <div className={`display_flex ${styles.profiles}`}>
         <a href="">
-          <Image src={Github} alt="Picture of the author" />
+          <Image src={Github} alt="Github" />
         </a>
         <a href="">
-          <Image src={Github} alt="Picture of the author" />
+          <Image src={Github} alt="Github" />
         </a>
         <a href="">
-          <Image src={Github} alt="Picture of the author" />
+          <Image src={Github} alt="Github" />
         </a>
       </div>
     </header>
