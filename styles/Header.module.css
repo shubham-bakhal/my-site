@@ -1,0 +1,28 @@
+.header{
+    align-items: center;
+    justify-content: space-between;
+    margin: auto 5%;
+}
+
+.name{
+    font-size: 24px;
+}
+
+
+.ul{
+    align-items: center;
+    justify-content: space-between;
+    padding: 0;
+}
+
+.ul a{
+    padding: 20px;
+}
+
+.profiles{
+    align-items: center;
+    justify-content: space-between;
+}
+.profiles a{
+    margin: 0 5px;
+}

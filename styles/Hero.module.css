@@ -1,0 +1,11 @@
+.container{
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    margin: auto 5%;
+}
+
+.heropara{
+    font-size: 32px;
+    font-weight: 500;
+    margin: 15% 0% 21% 0%;
+}
