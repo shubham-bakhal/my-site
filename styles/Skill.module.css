@@ -1,0 +1,11 @@
+.skill_icons{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    align-items: center;
+}
+
+.skill_icon{
+    padding : 0 10px 10px 0 !important;
+
+}
