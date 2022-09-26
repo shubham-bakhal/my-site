@@ -1,0 +1,12 @@
+.footer{
+    padding: 50px 100px;
+    background: #010027;
+    color: white;
+    min-height: 55vh;
+}
+
+.profiles{
+    align-items: center;
+    justify-content: left;
+
+}

@@ -1,0 +1,9 @@
+.card{
+    display: grid;
+    grid-template-columns: 1fr 1.5fr;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #F5F5F5;
+    padding: 10px 30px;
+    margin-bottom: 20px;
+}
