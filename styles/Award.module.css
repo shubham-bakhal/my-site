@@ -1,0 +1,10 @@
+.container{
+    margin: auto 5%;
+    margin-top: 50px;
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+}
+
+.award{
+    margin-bottom: 35px;
+}

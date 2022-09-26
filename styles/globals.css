@@ -14,9 +14,13 @@ a {
   box-sizing: border-box;
 }
 
-.display_flex{
+.display_flex_row{
   display: flex;
   flex-direction: row;
+}
+.display_flex_col{
+  display: flex;
+  flex-direction: column;
 }
 
 .title{
@@ -24,4 +28,9 @@ a {
 }
 .heading{
   font-weight: 700;
+}
+
+.lightText{
+  font-size: 20px;
+  color: #766F6F;;
 }
