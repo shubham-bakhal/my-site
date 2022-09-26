@@ -16,8 +16,8 @@ const Writing = () => {
           <div className={`display_flex_col ${styles.award}`}>
             <span className={`title heading`}>
               Lorem Ipsum is simply dummy text of the printing and typesetting
-              industry. Lorem Ipsum has been the industry's standard dummy text
-              ever since the 1500s{' '}
+              industry. Lorem Ipsum has been the industry&apos;s standard dummy text
+              ever since the 1500s
             </span>
             <span className={`lightText`}>July 2022, 6 min read</span>
           </div>
